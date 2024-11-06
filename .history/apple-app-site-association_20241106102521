@@ -1,0 +1,1 @@
+{ "applinks": { "details": [ { "appIDs": [ "ru.altlog.logistic" ], "components": [ { "/": "/reset.php*", "?": { "code": "*" }, "comment": "Allow reset password URLs to deep link into the app." } ], "defaults": { "caseSensitive": false } } ] }, "webcredentials": { "apps": [ "ru.altlog.logistic" ] } }
