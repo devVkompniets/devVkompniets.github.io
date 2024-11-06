@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ru.altlog.online",
+        "sha256_cert_fingerprints": [
+          "2B:61:B3:52:8F:F0:41:5A:06:42:FB:C0:A3:AC:C7:FC:07:C8:82:F8:42:84:9A:75:1F:07:5E:B3:FF:79:AF:63"
+        ]
+      }
+    }
+  ]
